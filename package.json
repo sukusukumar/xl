@@ -1,0 +1,24 @@
+{
+  "name": "excel-reader",
+  "version": "1.0.0",
+  "description": "Node JS project to read and write excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukusukumar/xl.git"
+  },
+  "author": "sukumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukusukumar/xl/issues"
+  },
+  "homepage": "https://github.com/sukusukumar/xl#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "node-xlsx": "^0.21.0"
+  }
+}

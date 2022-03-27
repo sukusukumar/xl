@@ -1,1 +1,6 @@
 Node JS project to read and write excel
+How to start the application?
+1. Clone the code fom github to you local machine
+2. Make sure that NODE JS latest version is already installed in your machine
+3. Do `npm install` -> This is a one time activity
+4. To run the application, DO `npm start`
